@@ -17,33 +17,21 @@ Step by step instructions for Windows PCs:
 
 1. Enable the PVR's network adapter in its system settings.
 
-2. Connect a Windows PC to the same local network as the PVR,
-   such as by enabling the PC's wifi adapter, or by connecting
-   the PC directly to the rear of the PVR via ethernet cable. 
+2. Connect a Windows PC to the same local network as the PVR, such as by enabling the PC's wifi adapter, or by connecting the PC directly to the rear of the PVR via ethernet cable. 
    
-3. Determine the PVR's IP address on your local network,
-   which should be listed in the PVR's network settings.
+3. Determine the PVR's IP address on your local network, which should be listed in the PVR's network settings.
    
-4. Determine the PVR's network username and password,
-   which should be listed in the PVR's network settings
-   (for Beyonwiz PVR's, the default username is "root").
+4. Determine the PVR's network username and password, which should be listed in the PVR's network settings (for Beyonwiz PVR's, the default username is "root").
 
 5. Obtain an FTP application for Windows, eg. WinSCP.
 
-6. Use the FTP application to connect to the PVR using the
-   IP address, username and password in steps 3 and 4
-   (for Beyonwiz PVR's, use encryption=none, port=21).
+6. Use the FTP application to connect to the PVR using the IP address, username and password in steps 3 and 4 (for Beyonwiz PVR's, use encryption=none, port=21).
    
-7. In the FTP application, browse to the PVR's folder
-   where plugins are located.  On Beyonwiz PVR's this is
-   /usr/lib/enigma2/python/Plugins/Extensions
+7. In the FTP application, browse to the PVR's folder where plugins are located.  On Beyonwiz PVR's this is /usr/lib/enigma2/python/Plugins/Extensions
    
-8. Create the following folder for AutoSharpness:
-   /usr/lib/enigma2/python/Plugins/Extensions/AutoSharpness
-   (note: case sensitive).
+8. Create the following folder for AutoSharpness: /usr/lib/enigma2/python/Plugins/Extensions/AutoSharpness (note: case sensitive).
    
-9. Copy plugin.py and \_\_init\_\_.py to the folder created in
-   previous step.
+9. Copy plugin.py and \_\_init\_\_.py to the folder created in previous step.
 
 10. Restart the PVR.
 
