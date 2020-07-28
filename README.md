@@ -7,7 +7,7 @@ AutoSharpness is a plugin application for Enigma2-based PVRs which allows you to
 
 #### System Requirements
 
-AutoSharpness was written and tested on a Beyonwiz V2 PVR.  Theoretically it should also run on other Linux-based PVRs which use the Enigma2 system.
+AutoSharpness was written and tested on a Beyonwiz V2 PVR.  Theoretically it should also run on other Linux-based PVRs which use the Enigma2 system.  The PVR must support video sharpness control via the system process path /proc/stb/vmpeg/0/pep_sharpness.
 
 #### Installation
 
