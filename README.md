@@ -35,7 +35,7 @@ Step by step instructions for Windows PCs:
 
 10. Restart the PVR.
 
-If installation was successful, the AutoSharpness plugin should now appear in the plugins menu, and also in the quick access plugins menu (blue button on Beyonwiz PVRs).
+If installation was successful, the AutoSharpness plugin should appear in the plugins menu, and also in the quick access plugins menu (blue button on Beyonwiz PVRs).
 
 To remove AutoSharpness, delete the folder you created in step 8, then restart the PVR.
    
