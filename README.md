@@ -3,7 +3,7 @@
 
 #### About
 
-AutoSharpness is a plugin application for Enigma2-based PVRs which allows you to set different picture sharpness values according to the resolution of the video content.  It was created to try and make low resolution TV broadcasts more watchable.  Please note the quality of the picture sharpening is dependent on the algorithm used by the chipset of your PVR.
+AutoSharpness is a plugin application for Enigma2-based PVRs which allows you to set different picture sharpness values according to the resolution of the video content.  It was created to try and make low resolution TV broadcasts more watchable.  Please note the quality of the picture sharpening is dependent on the video processor of your PVR.
 
 #### System Requirements
 
