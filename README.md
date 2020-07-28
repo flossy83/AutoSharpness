@@ -11,7 +11,7 @@ AutoSharpness was written and tested on a Beyonwiz V2 PVR.  Theoretically it sho
 
 #### Installation
 
-Installation consists of copying 2 uncompiled source code files to the PVR.  To do this you will need to connect a computer to the same local network as the PVR, such as by wifi or ethernet cable, and then copy the 2 files to the PVR using for example an FTP application.  The PVR should then automatically compile and run the application at the next restart.
+Installation consists of copying 2 uncompiled source code files to the PVR.  This can be done by connecting a computer to the same local network as the PVR, such as by wifi or ethernet cable, and using an FTP application to copy the files across.  The PVR should then automatically compile and run the application at the next restart.
 
 Step by step instructions for Windows PCs:
 
