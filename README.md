@@ -25,7 +25,7 @@ Step by step instructions for Windows PCs:
 
 5. Obtain an FTP application for Windows, eg. WinSCP.
 
-6. Use the FTP application to connect to the PVR using the IP address, username and password from steps 3 and 4 (for Beyonwiz PVR's, use encryption=none, port=21).
+6. Use the FTP application to connect to the PVR using the IP address, username and password from steps 3 and 4.
    
 7. In the FTP application, browse to the PVR's folder where plugins are located.  On Beyonwiz PVR's this is /usr/lib/enigma2/python/Plugins/Extensions
    
