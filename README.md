@@ -35,6 +35,8 @@ Step by step instructions for Windows PCs:
 
 10. Restart the PVR.
 
+11. Optional step: delete the 2 .py files from the PVR, but leave their respective .pyo files. 
+
 If installation was successful, the AutoSharpness plugin should appear in the plugins menu, and also in the quick access plugins menu (blue button on Beyonwiz PVRs).
 
 To remove AutoSharpness, delete the folder you created in step 8, then restart the PVR.
