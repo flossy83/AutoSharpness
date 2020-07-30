@@ -21,7 +21,7 @@ The AutoSharpness plugin should then appear in the plugins menu, and also in the
 
 #### Removal
 
-Navigate to the plugin browser menu and select "remove plugins", then select the AutoSharpness plugin.
+Navigate to the plugins menu and select "remove plugins", then select the AutoSharpness plugin.
    
  
 #### Screenshots
