@@ -17,7 +17,7 @@ AutoSharpness was written and tested on a Beyonwiz V2 PVR.  Theoretically it sho
 
 3. Restart the PVR.
 
-The AutoSharpness plugin should then appear in the plugins menu, and also in the quick access plugins menu (blue button on Beyonwiz PVRs).
+The AutoSharpness plugin should then appear in the plugins menu, and also in the quick access menu (blue button on Beyonwiz).
 
 #### Removal
 
