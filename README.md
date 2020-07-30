@@ -7,42 +7,24 @@ AutoSharpness is a plugin application for Enigma2-based PVRs which allows you to
 
 #### System Requirements
 
-AutoSharpness was written and tested on a Beyonwiz V2 PVR.  Theoretically it should also run on other Linux-based PVRs which use the Enigma2 system.  The PVR must support video sharpness control via the system process path /proc/stb/vmpeg/0/pep_sharpness.
+AutoSharpness was written and tested on a Beyonwiz V2 PVR.  Theoretically it should also run on other PVRs which use the Enigma2 system.  The PVR must support video sharpness control via the system process path /proc/stb/vmpeg/0/pep_sharpness.
 
 #### Installation
 
-Installation consists of copying 2 uncompiled source code files to the PVR.  This can be done by connecting a computer to the same local network as the PVR, such as by wifi or ethernet cable, and using an FTP application to copy the files across.  The PVR should then automatically compile and run the application at the next restart.
+1. Download the .ipk file from the downloads section and copy it to a USB drive.
 
-Step by step instructions for Windows PCs:
+2. Insert the drive into the PVR and follow the on-screen instructions.  Otherwise, use the PVR's file explorer to manually run the .ipk file.
 
-1. Enable the PVR's network adapter in its system settings.
+3. Restart the PVR.
 
-2. Connect a Windows PC to the same local network as the PVR, such as by enabling the PC's wifi adapter, or by connecting the PC directly to the rear of the PVR via ethernet cable. 
-   
-3. Determine the PVR's IP address on your local network, which should be listed in the PVR's network settings.
-   
-4. Determine the PVR's network username and password, which should be listed in the PVR's network settings (for Beyonwiz PVR's, the default username is "root").
+The AutoSharpness plugin should then appear in the plugins menu, and also in the quick access plugins menu (blue button on Beyonwiz PVRs).
 
-5. Obtain an FTP application for Windows, eg. WinSCP.
+#### Removal
 
-6. Use the FTP application to connect to the PVR using the IP address, username and password from steps 3 and 4.
-   
-7. In the FTP application, browse to the PVR's folder where plugins are located.  On Beyonwiz PVR's this is /usr/lib/enigma2/python/Plugins/Extensions
-   
-8. Create a folder for AutoSharpness, eg. /usr/lib/enigma2/python/Plugins/Extensions/AutoSharpness (note: case sensitive).
-   
-9. Copy plugin.py and \_\_init\_\_.py to the folder created in the previous step.
-
-10. Restart the PVR.
-
-11. Optional step: delete the 2 .py files from the PVR, but leave their respective .pyo files. 
-
-If installation was successful, the AutoSharpness plugin should appear in the plugins menu, and also in the quick access plugins menu (blue button on Beyonwiz PVRs).
-
-To remove AutoSharpness, delete the folder you created in step 8, then restart the PVR.
+Navigate to the plugin browser menu and select "remove plugins", then select the AutoSharpness plugin.
    
  
 #### Screenshots
 
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot_1.png)
-![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot_2.png)
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot1.png)
+![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot2.png)
