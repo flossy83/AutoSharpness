@@ -15,7 +15,7 @@ AutoSharpness was written and tested on a Beyonwiz V2 PVR.  Theoretically it sho
 
 2. Insert the drive into the PVR and follow the on-screen instructions.  Otherwise, use the PVR's file explorer to manually run the .ipk file.
 
-3. Restart the PVR.
+3. After installation is complete, restart the PVR.
 
 4. Launch AutoSharpness from the system plugins menu, or via the quick access menu (blue button on Beyonwiz).
 
