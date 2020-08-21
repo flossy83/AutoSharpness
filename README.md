@@ -27,4 +27,5 @@ Navigate to the plugins menu and select 'remove plugins', then select the AutoSh
 #### Screenshots
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot1.png)
+
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot2.png)
