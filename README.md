@@ -29,4 +29,3 @@ Navigate to the system plugins menu and select 'remove plugins'.  Select the Aut
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot1.png)
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot2.png)
- 
