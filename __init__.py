@@ -1,0 +1,1 @@
+# This file is intentionally blank, and must still be copied to the PVR alongside plugin.py.
