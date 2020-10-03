@@ -725,7 +725,8 @@ class Daemon(Screen):
 	def eventBuffering(self):
 		log("Daemon.eventBuffering()")
 		bufferInfo = self.session.nav.getCurrentService().streamed().getBufferCharge()
-		if (bufferInfo[0] > 98): self.videoStreamChange("Daemon.eventBuffering() ")
+		if (bufferInfo[0] > 98) and (config.plugins.autosharpness.applyhisifix.value != "Yes"):
+			self.videoStreamChange("Daemon.eventBuffering() ")
 	
 	def eventEnd(self):
 		self.enforce = False
