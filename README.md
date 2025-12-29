@@ -11,7 +11,7 @@ AutoSharpness was written and tested on a Beyonwiz V2 PVR.  Theoretically it sho
 
 #### Installation
 
-1. Download the .ipk file from the downloads section and copy it to a USB drive.
+1. Download the .ipk file from the download section and copy it to a USB drive.
 
 2. Insert the drive into the PVR and follow the on-screen instructions.  Otherwise, use the PVR's file explorer to manually run the .ipk file.
 
@@ -29,3 +29,8 @@ Navigate to the system plugins menu and select 'remove plugins'.  Select the Aut
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot1.png)
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot2.png)
+
+
+#### Download
+
+Due to Bitbucket no longer being free, the download is now hosted at my GitHub [here](https://github.com/CalibrationTools/AutoSharpness) (releases section).
