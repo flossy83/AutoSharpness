@@ -33,4 +33,4 @@ Navigate to the system plugins menu and select 'remove plugins'.  Select the Aut
 
 #### Download
 
-Due to Bitbucket no longer being free, the download is now hosted at my GitHub [here](https://github.com/CalibrationTools/AutoSharpness) (releases section).
+Due to Bitbucket downloads no longer being free, the download is now hosted at my GitHub [here](https://github.com/CalibrationTools/AutoSharpness) (releases section).
