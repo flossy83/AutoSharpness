@@ -30,7 +30,3 @@ Navigate to the system plugins menu and select 'remove plugins'.  Select the Aut
 
 ![Alt text](https://bitbucket.org/CalibrationTools/images/downloads/screenshot2.png)
 
-
-#### Download
-
-Due to Bitbucket downloads no longer being free, the download is now hosted at my GitHub [here](https://github.com/CalibrationTools/AutoSharpness) (releases section).
